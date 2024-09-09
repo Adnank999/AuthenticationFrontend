@@ -40,7 +40,7 @@ Learn Next.js - An interactive tutorial for learning Next.js.
 You can also check out the Next.js GitHub repository.
 
 Backend Integration
-The backend for this project is a Laravel application. Check out the repository here:
+The backend for this project is a Laravel application. Check out the repository here: https://github.com/Adnank999/AuthenticationBackend
 
 Authentication Backend (Laravel)
 Contact
