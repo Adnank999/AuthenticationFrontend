@@ -31,7 +31,7 @@ Email	Password	Role
 Role-Based Access Control
   Admin:
     Assign roles and permissions to Managers and Users.
-Create, edit, view, and delete users.
+      Create, edit, view, and delete users.
   Manager:
     Create, edit, and view users.
   User:
