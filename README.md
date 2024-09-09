@@ -21,17 +21,17 @@ Login Credentials
 Use the following credentials to log in:
 
 Email	Password	Role
-adk@gmail.com	pass-adk123	Admin
-test@gmail.com	pass-test123	Manager
-test123@gmail.com	pass-test123	User
+   1. adk@gmail.com	pass-adk123	Admin
+   2. test@gmail.com	pass-test123	Manager
+  3.  test123@gmail.com	pass-test123	User
 Role-Based Access Control
-Admin:
-Assign roles and permissions to Managers and Users.
+  Admin:
+    Assign roles and permissions to Managers and Users.
 Create, edit, view, and delete users.
-Manager:
-Create, edit, and view users.
-User:
-View users and their details.
+  Manager:
+    Create, edit, and view users.
+  User:
+    View users and their details.
 Learn More
 To learn more about the Next.js framework and this project's setup, explore the following resources:
 
